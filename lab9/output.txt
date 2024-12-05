@@ -1,0 +1,2 @@
+Hello from file descriptor 1
+Hello from file descriptor 2
